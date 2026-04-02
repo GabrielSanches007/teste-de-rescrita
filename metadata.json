@@ -1,0 +1,5 @@
+{
+  "name": "Corretor Acadêmico de Textos",
+  "description": "Uma ferramenta para refinar textos acadêmicos em português no campo de educação, sexualidade e relações de gênero, utilizando a API Gemini para garantir fluidez, persuasão e aderência a regras estilísticas específicas.",
+  "requestFramePermissions": []
+}
